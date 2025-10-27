@@ -36,6 +36,10 @@ In der Evolution Simulator werden verschiedene Suchstrategien als Chromosomen da
 American Fuzzy Lop ist eine Software, mit der man Softwarelücken testen kann. Er testet Eingabedaten -> bestimmt Mutation von Daten, um Lücken zu finden.
 Genetische Algorithmen werden in mehreren Gebieten eingesetzt, wie z.B Finanzen, Biomedizinischen Gebieten, Maschinelles Learning…
 
+ In der EightQueensProblem.py steht die Quell Text Lösung von der 8 - Queens - Problem Aufgabe.
+ 
+ In der MapColorProblem.py steht die Quell Text Lösung von der Landkartenfärben Problem Aufgabe.
+
 
 
  
